@@ -1,6 +1,8 @@
 # The very first intro HTML/CSS assignment 
 
-Create a simple webpage about a recipe.
+Create a simple webpage about a recipe. 
+To make it a bit more challenging I attempted to recreate a minimalistic style from the [cookbook](https://m.media-amazon.com/images/I/81EA-csRSXL._SL1500_.jpg).
+I decided to leave the layout issue when recizing the browser window for future assignments.
 
 ## Requirements
 
