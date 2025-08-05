@@ -1,4 +1,4 @@
-# The very first intro HTML/CSS assignment 
+# Intro HTML/CSS assignment 
 
 Create a simple webpage about a recipe. 
 To make it a bit more challenging I attempted to recreate a minimalistic style from the [cookbook](https://m.media-amazon.com/images/I/81EA-csRSXL._SL1500_.jpg).
@@ -18,3 +18,6 @@ To make it a bit more challenging I attempted to recreate a minimalistic style f
 - Accessibility: Think about the basics of accessibility. Use proper heading levels `<h1>` followed by `<h2>`, etc. write descriptive alt text for all images, ensure good color contrast between text and background, and use semantic HTML elements wherever possible. Reserve `<div>` and` <span>` for layout and styling purposes only.
 
 - After completing the HTML part, you must style your page properly. It doesn’t have to be fancy, and it doesn’t need to be responsive — but make it look as good as you can. Try to match the theme of your dish, using fitting colors and fonts.
+
+## Result
+![Intro assignment result](/img/draft.jpg "Page screenshot")
