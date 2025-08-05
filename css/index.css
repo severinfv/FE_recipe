@@ -1,0 +1,124 @@
+body {
+  background-color: #f4e9e5;
+  color: #708a7c;
+  margin: 0; 
+}
+
+header {
+  background-color: #f4e9e5;
+  padding: 16px;
+  width: 80%;
+  text-align: center;
+}
+
+h1, h2 {
+font: 2rem serif;
+color: #325434;
+}
+
+.introduction {
+  margin: 10px, 0px;
+  width: 80%;
+  height: 250px;
+  padding: 40px 20px;
+}
+
+.summary {
+  width: 22%;
+  float: left;
+}
+
+.country {
+  color: #54685d;
+  width: 30%;
+  margin-left: 25%;
+  font-family: serif;
+}
+
+h2 {
+margin-top: 0.5rem;
+margin-bottom: 0.2rem;
+font-weight: 400;
+}
+
+.eng_name {
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+  font: italic 1.8rem serif;
+  font-weight: 100;
+}
+
+ul {
+  margin: 0px;
+  list-style-position: inside;
+  padding-inline-start: 5px;
+}
+
+ol li {
+list-style: georgian outside;
+padding-bottom: 5px
+}
+
+.lined {
+  padding: auto, 20px;
+  border-left-style: solid;
+  list-style-type: none;
+}
+
+.howto {
+  margin-bottom: 50px;
+  width: 70%;
+  height: 450px;
+  padding: 0px 20px;
+  font: 1rem sans-serif;
+}
+
+.ingredients {
+  width: 20%;
+  height: 275px;
+  padding: 0px;
+  float: left;
+  border-left-style: dotted;
+  font: bold;
+}
+
+.instructions {
+  width: 45%;
+  margin-left: 22%;
+  color: #54685d;
+  font: 1rem;
+}
+
+.notice {
+  width: 25%;
+  margin-top: 25px;
+  margin-left: 20%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-style: dotted;
+  border-radius: 20px;
+}
+
+img {
+  display: block;
+  height: 250px;
+  width: 380px;
+  padding: 40px;
+}
+
+.imgcountry {
+  float: left
+}
+
+.imgdish {
+  margin-left: 30%;
+}
+
+footer {
+  text-align: center;
+}
+
+a
+{
+  color: var(--accent);
+}
