@@ -20,4 +20,4 @@ To make it a bit more challenging I attempted to recreate a minimalistic style f
 - After completing the HTML part, you must style your page properly. It doesn’t have to be fancy, and it doesn’t need to be responsive — but make it look as good as you can. Try to match the theme of your dish, using fitting colors and fonts.
 
 ## Result
-![Intro assignment result](/img/draft.jpg "Page screenshot")
+![Intro assignment result](/img/draft.jpeg "Page screenshot")
