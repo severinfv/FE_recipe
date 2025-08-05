@@ -114,13 +114,16 @@ ul {
   border-radius: 20px;
 }
 
+.imgcountry, .imgdish
+{
+   width: 35%;
+}
+
 img {
   display: block;
   margin-left: 40px;
-  height: 220px;
-  width: 360px;
-  padding: 30px 20px;
-  align-items: right;
+  width: 80%;
+  padding: 20px;
 }
 
 
