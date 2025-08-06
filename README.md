@@ -20,6 +20,5 @@ To make it a bit more challenging I attempted to recreate a minimalistic style f
 - After completing the HTML part, you must style your page properly. It doesn’t have to be fancy, and it doesn’t need to be responsive — but make it look as good as you can. Try to match the theme of your dish, using fitting colors and fonts.
 
 ## Result
-I decided not to aim for a 100% replica of the original image from the cookbook. I focused on recreating the minimal layout, general color palette and meeting the assignment requirements, putting less emphasis to minor fonts and text color variations.
-
+I decided not to aim for a 100% replica of the original image from the cookbook. I focused on recreating the minimal layout, general color palette and meeting the assignment requirements, putting less emphasis to minor fonts and text color variations./
 ![Intro assignment result](/img/draft.jpeg "Page screenshot")
